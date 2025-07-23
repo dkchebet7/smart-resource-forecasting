@@ -34,6 +34,17 @@ We leverage a **deep LSTM model** benchmarked against a classical **ARIMA** appr
 
 ---
 
+# 🗃️ Synthetic MaxBill Dataset
+
+This file contains **simulated billable hour records** generated for training, testing, and validating the time series forecasting models in this project.
+
+- **Purpose:** Educational and prototyping use only
+- **Structure:** Daily timestamps with a single `billable_hours` value
+- **Source:** Artificially generated to mirror realistic trends and seasonality patterns
+
+> 📌 No sensitive, confidential, or proprietary information is included.
+
+
 ## 📁 File Structure
 
 ```
